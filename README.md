@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.com/heynikhil/heynikhil/blob/master/dino.gif)
+
 
 - 🔭 I’m currently working on Gaming projects
 - 🌱 I’m currently learning Deno
