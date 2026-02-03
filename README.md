@@ -2,41 +2,51 @@
 
 ![Coding Dino](https://github.com/heynikhil/heynikhil/blob/master/dino.gif)
 
-🚀 **Engineer | JavaScript | AI & Real-Time Systems | Builder**
+🚀 **Engineer | JavaScript & Python | AI Systems | Real-Time Builder**
 
 I build **production-grade software** — not demos.  
-My work lives at the intersection of **JavaScript, AI systems, and real-time experiences**.
+Most of my work sits at the intersection of **JavaScript, Python, AI systems, and real-time experiences**.
 
 ---
 
 ### 🧠 What I work with
-- **JavaScript / TypeScript** (frontend, backend, architecture)
-- **AI & LLMs**: Claude, OpenAI, Cursor-powered workflows
-- **Agent frameworks**: LangChain, LangGraph, LangSmith
-- **Real-time systems**: WebSockets, event-driven architecture
-- **Games & interactive systems**: real-time multiplayer logic
-- **System design**: scalable, observable, maintainable
+- **JavaScript / TypeScript** – frontend, backend, system architecture
+- **Python** – AI pipelines, automation, backend services
+- **AI & LLMs** – Claude, OpenAI, Cursor-powered workflows
+- **Agent frameworks** – LangChain, LangGraph, LangSmith
+- **Real-time systems** – WebSockets, event-driven architecture
+- **Games & interactive systems** – real-time multiplayer logic
+- **System design** – scalable, observable, maintainable systems
 
 ---
 
 ### 🛠️ What I like building
 - AI-powered products that actually ship
 - Agentic workflows (not just prompt wrappers)
-- Real-time apps & games with low-latency logic
-- Tools that reduce human effort, not add complexity
+- Real-time apps & multiplayer games
+- Tools that remove friction and scale cleanly
+
+---
+
+### 🌍 Beyond code
+- ✈️ Travel addict — exploring new places whenever possible
+- 🏔️ Adventure & trekking enthusiast
+- 📸 Photography as a way to slow down and observe
+
+I like building systems *and* collecting stories.
 
 ---
 
 ### 🤔 I can help with
-- JavaScript & TypeScript (clean architecture, async patterns)
+- JavaScript / TypeScript & Python
 - LLM integration & agent design
 - Real-time systems (sockets, state sync, scaling)
-- Turning vague ideas into working systems
+- Turning vague ideas into working products
 
 ### 💬 Ask me about
 - AI agents & LLM orchestration
-- Building real-time apps
-- Engineering decisions that matter in production
+- Real-time apps & games
+- Engineering trade-offs in production
 
 ---
 
@@ -52,4 +62,4 @@ My work lives at the intersection of **JavaScript, AI systems, and real-time exp
 
 ---
 
-⚡ *If it involves AI, real-time systems, or shipping solid products — I’m probably interested.*
+⚡ *If it involves AI, real-time systems, or a good adventure — count me in.*
